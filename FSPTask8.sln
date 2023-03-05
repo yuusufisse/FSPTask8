@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSPTask8", "FSPTask8\FSPTask8.csproj", "{F2CCAC37-DA18-4BCD-BC11-F08D9624F903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2CCAC37-DA18-4BCD-BC11-F08D9624F903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CCAC37-DA18-4BCD-BC11-F08D9624F903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CCAC37-DA18-4BCD-BC11-F08D9624F903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CCAC37-DA18-4BCD-BC11-F08D9624F903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2850569A-0DBF-427B-A0A9-88402EBAB224}
+	EndGlobalSection
+EndGlobal
